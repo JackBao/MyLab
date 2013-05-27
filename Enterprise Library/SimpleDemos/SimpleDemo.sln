@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{79AD974F-35F2-48D8-8B34-5A347DA5041E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{79AD974F-35F2-48D8-8B34-5A347DA5041E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79AD974F-35F2-48D8-8B34-5A347DA5041E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79AD974F-35F2-48D8-8B34-5A347DA5041E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79AD974F-35F2-48D8-8B34-5A347DA5041E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.Data.SqlCe.6.0.1304.0\lib\NET45
+	EndGlobalSection
+EndGlobal
